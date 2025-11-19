@@ -59,7 +59,7 @@ namespace _11192025
         string exitCheck = Console.ReadLine();
            if (exitCheck.ToLower() == "q")
               {
-               Console.WriteLine("Program ended. Goodbye!");
+               Console.WriteLine("goodbye");
                     break;
                }
             }
